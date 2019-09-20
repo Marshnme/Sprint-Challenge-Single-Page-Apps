@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
-import axios from "axios"
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import CharacterCard from "./CharacterCard"
 export default function CharacterList(props) {

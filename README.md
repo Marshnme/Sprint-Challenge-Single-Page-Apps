@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Allows new data to show without actually refreshing or making a HTTP request. 
 
 ## Project Set Up
 

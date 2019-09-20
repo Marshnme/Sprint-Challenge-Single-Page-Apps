@@ -1,5 +1,5 @@
 import React, { useState,useEffect } from "react";
-
+import CharacterList from "./CharacterList"
 export default function SearchForm(props) {
   console.log(props.items.name);
         const [search, setSearch] = useState("");
